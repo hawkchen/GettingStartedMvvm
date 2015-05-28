@@ -8,6 +8,6 @@
 
 [^4]: [ZK Developer's Reference/MVC/View/Template](http://books.zkoss.org/wiki/ZK%20Developer's%20Reference/MVC/View/Template)
 
-[^5]: [ZK Developer's Reference/MVC/View/Template/Listbox Template](ZK Developer's Reference/MVC/View/Template/Listbox Template "wikilink")
+[^5]: [ZK Developer's Reference/MVC/View/Template/Listbox Template](http://books.zkoss.org/wiki/ZK%20Developer's%20Reference/MVC/View/Template/Listbox%20Template)
 
-[^6]: [searchMvvm.zul](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/WebContent/searchMvvm.zul)
+[^6]: [searchMvvm.zul](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/webapp/searchMvvm.zul)
