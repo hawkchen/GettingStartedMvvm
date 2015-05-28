@@ -5,10 +5,7 @@ then we specify relationship between a ZUL and a ViewModel by writing
 data binding expression in component's attribute, and let ZK handle
 components for us.
 
-To bind a component to a ViewModel, we should apply a composer called
-**org.zkoss.bind.BindComposer**. This composer processes data binding
-expressions and initializes the ViewModel class. We then bind this
-component to a ViewModel by setting its **viewModel** attribute with
+To bind a component to a ViewModel, we should set the component's **viewModel** attribute with
 following syntax:
 
 **`@id('ID') @init('FULL.QUALIFIED.CLASSNAME')`**
@@ -23,13 +20,16 @@ following syntax:
 
 ```xml
     <window title="Search" width="600px" border="normal"
-        apply="org.zkoss.bind.BindComposer" viewModel="@id('vm') @init('tutorial.SearchViewModel')">
+     viewModel="@id('vm') @init('tutorial.SearchViewModel')">
     <!-- omit other tags-->
     </window>
 ```
 
+
 After binding the ViewModel to the component, all its child components
-can access the same ViewModel and its properties.
+can access the same ViewModel and its properties. ZK also implicitly applies a composer called
+`org.zkoss.bind.BindComposer`. This composer processes data binding
+expressions and initializes the ViewModel class.
 
 We can bind View to both ViewModel's properties and behavior with data
 binding expression. Let's see how to use data binding to achieve search

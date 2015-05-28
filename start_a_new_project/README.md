@@ -8,7 +8,7 @@ to [ZK Installation Guide/Quick
 Start](http://books.zkoss.org/wiki/ZK_Installation_Guide/Quick_Start). If you want to
 know how to build the application with ZK first, please skip these two
 sections and start from [ Declaring Domain
-Class](declaring_domain_class/README.md).
+Class](../declaring_domain_class/README.md).
 
 ## Maven
 
@@ -27,10 +27,8 @@ below to generate a project with ZK provided archetypes:
 
 `mvn archetype:generate -DarchetypeCatalog=`[`http://mavensync.zkoss.org/maven2/`](http://mavensync.zkoss.org/maven2/)
 
-Then follow the instructions described in [ZK Installation Guide/Quick
-Start/Create and Run Your First ZK Application with Eclipse and
-Maven\#Use the command line version of Maven to create a
-project](ZK Installation Guide/Quick Start/Create and Run Your First ZK Application with Eclipse and Maven#Use_the_command_line_version_of_Maven_to_create_a_project "wikilink")
+Then follow the instructions described in [Use the command line version of Maven to create a
+project](http://books.zkoss.org/wiki/ZK_Installation_Guide/Quick_Start/Create_and_Run_Your_First_ZK_Application_with_Eclipse_and_Maven#Use_the_command_line_version_of_Maven_to_create_a_project)
 to complete the creation and run the application.
 
 
@@ -45,4 +43,4 @@ Eclipse](ZK Installation Guide/Quick Start/Create and Run Your First ZK Applicat
 Then you can create a new project with ZK archetype and run it in
 eclipse, please refer to [ Create a Hello World Application with ZK
 Maven
-Archetype](ZK Installation Guide/Quick Start/Create and Run Your First ZK Application with Eclipse and Maven#Create_a_.22Hello_World.22_application_with_ZK_Maven_Archetype "wikilink").
+Archetype](http://books.zkoss.org/wiki/ZK_Installation_Guide/Quick_Start/Create_and_Run_Your_First_ZK_Application_with_Eclipse_and_Maven#Create_a_.22Hello_World.22_application_with_ZK_Maven_Archetype).

@@ -39,7 +39,7 @@ Basically, our example application's user interface is divided into 3
 areas within the *window*, they are (from top to bottom) search
 function, car list, and car details.
 
-![](../../images/tutorial-ui-3areas.png)
+![](../images/tutorial-ui-3areas.png)
 
 **Search Area:** ZK components are like building blocks, you can combine
 and mix-match existing components to construct your desired UI. To allow
@@ -127,8 +127,8 @@ section. [^5]
 [^2]: [CarService.java](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/src/tutorial/CarService.java)
     [CarServiceImpl.java](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/src/tutorial/CarServiceImpl.java)
 
-[^3]: [ZUML Reference](ZUML Reference "wikilink")
+[^3]: [ZUML Reference](http://books.zkoss.org/wiki/ZUML_Reference)
 
-[^4]: [ZK Component Reference](ZK Component Reference "wikilink")
+[^4]: [ZK Component Reference](http://books.zkoss.org/wiki/ZK_Component_Reference)
 
 [^5]: [search.zul](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/WebContent/search.zul)
