@@ -6,12 +6,12 @@ made UI components so developers can rapidly build their desired user
 interface by combining and mix matching these components without having
 to create them from scratch.
 
-In ZK, you can use ZK User Interface Markup Language (ZUML) [^3], an
+In ZK, you can use ZK User Interface Markup Language (ZUML) [^4], an
 XML-formatted language, to describe UI. By ZK's convention, the files to
 describe user interface with ZUML uses **.zul** as the name suffix. In
 zul files, one component can be represented as an XML element (tag) and
 you can configure each component's style, behavior, and function by
-setting XML element's attributes.[^4]
+setting XML element's attributes.[^5]
 
 In the case of this example application, first of all, we want to design
 a *window* with the specified title and normal border as our
@@ -120,15 +120,6 @@ syntax.
 ```
 
 You can see the complete zul file through the link in the References
-section. [^5]
+section. [^6]
 
-[^1]: [Car.java](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/src/tutorial/Car.java)
 
-[^2]: [CarService.java](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/src/tutorial/CarService.java)
-    [CarServiceImpl.java](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/src/tutorial/CarServiceImpl.java)
-
-[^3]: [ZUML Reference](http://books.zkoss.org/wiki/ZUML_Reference)
-
-[^4]: [ZK Component Reference](http://books.zkoss.org/wiki/ZK_Component_Reference)
-
-[^5]: [search.zul](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/WebContent/search.zul)

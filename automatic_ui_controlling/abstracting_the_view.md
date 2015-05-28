@@ -80,4 +80,4 @@ public class SearchViewModel {
 }
 ```
 
-For complete source code, please refer to References section. [^3]
+For complete source code, please refer to References section. [^8]

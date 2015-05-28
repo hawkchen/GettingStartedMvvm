@@ -15,7 +15,7 @@ public class Car {
 }
 ```
 
--   Please refer to References section to see the complete code. [^1]
+-   Please refer to References section to see the complete code. [^2]
 
 We then define a service class to perform the business logic (search
 cars) shown below:
@@ -42,4 +42,4 @@ In this example, we have defined a class - `CarServeImpl` that
 implements the above interface. For simplicity, it uses a static list
 object as the data model. You can rewrite it so that it connects to a
 database in a real application. Implementation details are not in the
-scope of this article, please refer to References section.[^2]
+scope of this article, please refer to References section.[^3]

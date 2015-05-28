@@ -38,7 +38,7 @@ You need to install Eclipse and m2e plugin and setup the maven catalog,
 please follow the instructions described here [ZK Installation
 Guide/Quick Start/Create and Run Your First ZK Application with Eclipse
 and Maven\#Prepare
-Eclipse](ZK Installation Guide/Quick Start/Create and Run Your First ZK Application with Eclipse and Maven#Prepare_Eclipse "wikilink").
+Eclipse](http://books.zkoss.org/wiki/ZK_Installation_Guide/Quick_Start/Create_and_Run_Your_First_ZK_Application_with_Eclipse_and_Maven#Prepare_Eclipse).
 
 Then you can create a new project with ZK archetype and run it in
 eclipse, please refer to [ Create a Hello World Application with ZK
