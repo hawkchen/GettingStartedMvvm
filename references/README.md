@@ -6,7 +6,7 @@
 
 [^3]: [SearchViewModel.java](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/java/tutorial/SearchViewModel.java)
 
-[^4]: [ZK Developer's Reference/MVC/View/Template](ZK Developer's Reference/MVC/View/Template "wikilink")
+[^4]: [ZK Developer's Reference/MVC/View/Template](http://books.zkoss.org/wiki/ZK%20Developer's%20Reference/MVC/View/Template)
 
 [^5]: [ZK Developer's Reference/MVC/View/Template/Listbox Template](ZK Developer's Reference/MVC/View/Template/Listbox Template "wikilink")
 
