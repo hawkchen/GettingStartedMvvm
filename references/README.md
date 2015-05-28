@@ -1,10 +1,10 @@
 # References
 
-[^1]: [ZK Getting Started/Get ZK Up and Running with MVC](ZK Getting Started/Get ZK Up and Running with MVC "wikilink")
+[^1]: [ZK Getting Started/Get ZK Up and Running with MVC](http://books.zkoss.org/wiki/ZK_Getting_Started/Get_ZK_Up_and_Running_with_MVC)
 
-[^2]: [ MVVM in Developer's Reference](ZK Developer's Reference/MVVM "wikilink")
+[^2]: [ ZK MVVM Reference](http://books.zkoss.org/zk-mvvm-book/8.0/index.html)
 
-[^3]: [SearchViewModel.java](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/src/tutorial/SearchViewModel.java)
+[^3]: [SearchViewModel.java](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/java/tutorial/SearchViewModel.java)
 
 [^4]: [ZK Developer's Reference/MVC/View/Template](ZK Developer's Reference/MVC/View/Template "wikilink")
 
