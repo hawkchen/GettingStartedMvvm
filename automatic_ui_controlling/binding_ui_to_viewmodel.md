@@ -1,6 +1,6 @@
 # Binding UI to ViewModel
 
-Under MVVM, we build our UI as same as we would with the MVC approach,
+Under MVVM, we build our UI as same as we do in the MVC approach,
 then we specify relationship between a ZUL and a ViewModel by writing
 data binding expression in component's attribute, and let ZK handle
 components for us.
@@ -31,7 +31,7 @@ can access the same ViewModel and its properties. ZK also implicitly applies a c
 `org.zkoss.bind.BindComposer`. This composer processes data binding
 expressions and initializes the ViewModel class.
 
-We can bind View to both ViewModel's properties and behavior with data
+We can bind View to both ViewModel's properties and methods with data
 binding expression. Let's see how to use data binding to achieve search
 function.
 
@@ -69,7 +69,7 @@ should bind *listbox*'s "model" to `vm.carList`.
 ```
 
 We can only bind a component's event attribute (e.g. onClick) to
-ViewModel's behavior. After we bind an event to a ViewModel, each time a
+a ViewModel's method. After we bind an event to a ViewModel, each time a
 user triggers the event, ZK finds the bound command method and invokes
 it. In order to handle clicking on "Search" button, we have to bind
 button's onClick attribute to a command method with following syntax:
