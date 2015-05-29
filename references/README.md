@@ -11,7 +11,7 @@
 
 [^5]: [ZK Component Reference](http://books.zkoss.org/wiki/ZK_Component_Reference)
 
-[^6]: [search.zul](https://code.google.com/p/zkbooks/source/browse/trunk/gettingStarted/getZkUp/WebContent/search.zul)
+[^6]: [search.zul](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/webapp/search.zul)
 
 [^7]: [ ZK MVVM Reference](http://books.zkoss.org/zk-mvvm-book/8.0/index.html)
 
