@@ -5,28 +5,20 @@ is MVVM. The main differences are that Controller changes to ViewModel
 and there is a binder to synchronize data instead of a Controller in
 MVVM .
 
-<div style="float:left;width:100%;display:inline"></div>
 
-<div style="float:left;width:49%;">
+<div style="float:left;width:100%;">
     <div style="font-size:26px;color:DodgerBlue;width:60px;margin-left:auto;margin-right:auto">
     MVC
     </div>
 </div>
-<div style="float:left;width:49%;">
+![](../images/tutorial-mvc.png)
+
+<div style="float:left;width:100%;">
 <div style="font-size:26px;color:DodgerBlue;width:80px;margin-left:auto;margin-right:auto">
 MVVM
 </div>
 </div>
-
-
-<div style="float:left;width:100%">
-<div style="width:49%;display:inline-block">
-![](../images/tutorial-mvc.png)
-</div>
-<div style="width:49%;display:inline-block">
 ![](../images/tutorial-mvvm.png)
-</div>
-</div>
 
 
 Both approaches can achieve many things in common, but there are still
