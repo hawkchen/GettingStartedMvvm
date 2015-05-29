@@ -11,5 +11,7 @@ application has two functions:
 
     Click an item from the car list, the area below the car list will show the selected car's details including model, price, description, and preview.
 
-![Application UI](../images/tutorial-searchexample.png " ")
+![](../images/tutorial-searchexample.png)
 
+## Application Demo
+You can see this application immediately in our [demo site](http://www.zkoss.org/zkdemo/getting_started/mvvm).
