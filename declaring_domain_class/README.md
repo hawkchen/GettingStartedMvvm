@@ -1,5 +1,7 @@
 # Declaring Domain Class
 
+The domain class and application logic are not the main topic of this book, we just present them without detail explanation. Please refer to the source code on your own.
+
 The following is the domain object that represents a car.
 
 ```java
