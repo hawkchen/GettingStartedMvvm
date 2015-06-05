@@ -3,7 +3,7 @@
 Under MVVM, we build our UI as same as we do in the MVC approach,
 then we specify relationship between a ZUL and a ViewModel by writing
 data binding expression in component's attribute, and let ZK handle
-components for us.
+components for us.
 
 To bind a component to a ViewModel, we should set the component's **viewModel** attribute with
 following syntax:
