@@ -81,4 +81,5 @@ public class SearchViewModel {
 }
 ```
 
-For complete source code, please refer to References section. [^8]
+For complete source code, please refer to  [SearchViewModel.java](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/java/tutorial/SearchViewModel.java).
+

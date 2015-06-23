@@ -28,4 +28,4 @@ previous sections.
         </hbox>
 ```
 
-You can view complete zul in References. [^11]
+You can view complete zul in [Github](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/webapp/searchMvvm.zul).

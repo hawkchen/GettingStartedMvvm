@@ -2,7 +2,7 @@
 
 The approach we introduce here to control user interaction is to **let
 ZK control UI components for you**. This approach is classified to
-**Model-View-ViewModel** (**MVVM**) design pattern. [^7] This pattern
+**Model-View-ViewModel** (**MVVM**) design pattern. [^1] This pattern
 divides an application into three parts.
 
 The **Model** consists of application data and business rules.
@@ -40,3 +40,6 @@ flow is as follows:
     properties.
 4.  ZK's binder reloads changed properties from the ViewModel to update
     component's states.
+
+
+[^1]: [ ZK MVVM Reference](http://books.zkoss.org/zk-mvvm-book/8.0/index.html)

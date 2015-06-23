@@ -12,5 +12,4 @@
    * [Displaying Data Collection](automatic_ui_controlling/displaying_data_collection.md)
    * [Implementing View Details Functionality](automatic_ui_controlling/implementing_view_details_functionality.md)
 * [Approach Comparison](approach_comparison/README.md)
-* [References](references/README.md)
 

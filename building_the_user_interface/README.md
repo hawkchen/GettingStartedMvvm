@@ -6,12 +6,12 @@ made UI components so developers can rapidly build their desired user
 interface by combining and mix matching these components without having
 to create them from scratch.
 
-In ZK, you can use ZK User Interface Markup Language (ZUML) [^4], an
+In ZK, you can use ZK User Interface Markup Language (ZUML) [^1], an
 XML-formatted language, to describe UI. By ZK's convention, the files to
 describe user interface with ZUML uses **.zul** as the name suffix. In
 zul files, one component can be represented as an XML element (tag) and
 you can configure each component's style, behavior, and function by
-setting XML element's attributes.[^5]
+setting XML element's attributes.[^2]
 
 In the case of this example application, first of all, we want to design
 a *window* with the specified title and normal border as our
@@ -120,6 +120,11 @@ syntax.
 ```
 
 You can see the complete zul file through the link in the References
-section. [^6]
+section. [^3]
 
 
+[^1]: [ZUML Reference](http://books.zkoss.org/wiki/ZUML_Reference)
+
+[^2]: [ZK Component Reference](http://books.zkoss.org/wiki/ZK_Component_Reference)
+
+[^3]: [search.zul](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/webapp/search.zul)

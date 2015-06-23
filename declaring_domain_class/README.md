@@ -17,7 +17,7 @@ public class Car {
 }
 ```
 
--   Please refer to References section to see the complete code. [^2]
+-   [The complete code](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/java/tutorial/Car.java).
 
 We then define a service class to perform the business logic (search
 cars) shown below:
@@ -44,4 +44,4 @@ In this example, we have defined a class - `CarServeImpl` that
 implements the above interface. For simplicity, it uses a static list
 object as the data model. You can rewrite it so that it connects to a
 database in a real application. Implementation details are not in the
-scope of this article, please refer to References section.[^3]
+scope of this article, please refer to  [CarService.java](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/java/tutorial/CarService.java)    [CarServiceImpl.java](https://github.com/zkoss/zkbooks/blob/master/gettingStarted/getZkUp/src/main/java/tutorial/CarServiceImpl.java).
