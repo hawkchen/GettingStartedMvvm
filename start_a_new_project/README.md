@@ -33,6 +33,7 @@ to complete the creation and run the application.
 
 
 ## Eclipse M2E Plugin
+If you are using eclipse **4.3** (Kepler) - **Eclipse IDE for Java EE Developers**, you can skip this section for this plugin is already bundled with that version of package.
 
 You need to install Eclipse and m2e plugin and setup the maven catalog,
 please follow the instructions described here [ZK Installation
